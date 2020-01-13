@@ -2,7 +2,7 @@
 Analyzing text file from corpus and estimate co-similarity between two files by calculating TF-IDF values from scratch. 
 
 # Data
-The corpus data is stored under masc_500k_text folder. There are two types of text transcript stored under the folder. 1) Spoken and 2) Written
+The corpus data is stored under masc_500k_text folder. There are two types of text transcript stored under the folder. 1) Spoken and 2) Written.
 Each of folder has tanscript of various categories such as emails, jokes, letters, news papers etc. 
 
 # Approach
