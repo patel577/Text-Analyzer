@@ -9,7 +9,7 @@ Each of folder has tanscript of various categories such as emails, jokes, letter
 The main goal of the project is to calcuate TFIDF score for each document and cosimilarity between two documents or categories using pyspark functions. I used 
 argparse to make code that can be easily re-use for any text file under the corpus through command-line interface. It helps to change arguments in CLI.
 
-python TextAnalyzer.py command input output --other arguments(optional) 
+python TextAnalyzer.py ModeofOperation input output --other arguments(optional) 
 
 For example, if you want to compute only TF of all words apppering in document (hotel-california.txt) then,
 by running,
